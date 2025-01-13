@@ -5,7 +5,8 @@ Dự án này là một nền tảng giao dịch phi tập trung (DApp), sử d�
 Người dùng có thể:  
 - Lưu trữ tài sản số (NFT, token).  
 - Giao dịch sản phẩm với người dùng khác.  
-- Kiểm tra quyền sở hữu và lịch sử giao dịch ngay trên blockchain.  
+- Kiểm tra quyền sở hữu và lịch sử giao dịch ngay trên blockchain.
+- Được hỗ trợ xác minh tính minh bạch, công khai của các tài khoản và tài sản giao dịch bởi tính năng được tích hợp AI.
 
 Nền tảng kết hợp **Web3** để xây dựng giao diện phi tập trung và **AI** để phân tích dữ liệu giao dịch.  
 
@@ -14,7 +15,8 @@ Nền tảng kết hợp **Web3** để xây dựng giao diện phi tập trung 
 ## 📊 Phân tích thị trường
 ### Xu hướng Web3 hiện nay
 - Quy mô thị trường Web3 dự kiến đạt **80 tỷ USD vào năm 2030**.  
-- Công nghệ blockchain, DeFi, và NFT đang thúc đẩy sự phát triển mạnh mẽ.  
+- Công nghệ blockchain, DeFi, và NFT đang thúc đẩy sự phát triển mạnh mẽ.
+- Phi tập trung (Decentralization): Web3 được xây dựng trên blockchain, cho phép loại bỏ các trung gian và tăng cường quyền kiểm soát cho người dùng cá nhân từ đó cũng làm tăng đáng kể tính riêng tư bảo mật cho cá nhân.
 
 ### Lợi thế cạnh tranh
 - **Các nền tảng tương tự**: OpenSea, Rarible, Magic Eden.  
@@ -65,12 +67,25 @@ Nền tảng kết hợp **Web3** để xây dựng giao diện phi tập trung 
 ---
 
 ## 🤖 Tích hợp AI
-- **Phân tích giao dịch**:  
-  - Nhận diện các giao dịch bất thường (fraud detection).  
-  - Đưa ra báo cáo về xu hướng thị trường.  
-  - Dự đoán giá trị tài sản dựa trên dữ liệu lịch sử.  
-  - Tối ưu hóa chiến lược giao dịch cho người dùng.  
+Ngày nay với sự phát triển mạnh mẽ của công nghệ blockchain và web3, các lịch sử giao dịch, mua bán được công khai minh bạch tăng tính an toàn cho người dùng. 
+Nhưng với số lượng lịch sử dày đặc như vậy người dùng không thể nào xem hết bằng sức người. 
+Từ đó nhóm cho ra ý tưởng sử dụng các mô hình Deeplearning, Machine learning hiện có ngày nay để hổ trợ, đưa ra lời khuyên cho người dùng trước khi thực hiện một giao dịch gì đó.
 
+Mô hình AI dựa vào các lịch sử của một tài khoảng đang muốn thực hiện giao dịch để đánh giá các tiêu chí:
+- Tính an toàn của tài khoản.
+- Tính an toàn của món hàng.
+- Tính tài chính của một giao dịch ( sử lý kế toán )
+
+Với hi vọng sẽ giúp hạn chế được các tai nạn lừa đảo phức tạp và hỗ trợ tính tài chính.
+
+- Với tính an toàn của tài khoản:
+  - Các công nghệ sẽ được áp dụng để khai thác các dữ liệu trên các nền tảng dựa trên tài khoản người dùng đã đăng ký.
+  - Từ đó sử dụng AI để đánh giá dựa trên các data đó (VD: số lần đã thực hiện giao dịch thành công, có xuất hiện giao dịch bất thường không, các thông tin share trên mạng xã hội có đang quảng cáo cho một đồng coin hoặc món đồ gì không, ... )
+- Với tính an toàn của món hàng:
+  - Công nghệ lịch sử của block chain sẽ được truy suất dựa trên mã của món hàng đó và kiểm tra dựa trên các hành vi ( lịch sử ) của món hàng đó.
+- Với tính tài chính:
+  - Hỗ trợ đưa ra lời khuyên tài chính ( ý tưởng vì đây là một lĩnh vực khó, hiện nay đã có rất nhiều mô hình nhưng chưa một mô hình nào cho thấy khả năng vượt trội ). Nhưng ở mức độ lời khuyên gợi ý thì vài mô hình đã cho thấy khả năng phân tích số liệu vượt trội.
+  - 
 ---
 
 ## 🛤️ Lộ trình phát triển
