@@ -23,7 +23,15 @@ Nền tảng kết hợp **Web3** để xây dựng giao diện phi tập trung 
   - Giao diện đơn giản, dễ sử dụng, nhưng đảm bảo tính bảo mật cao.  
 
 ---
+## Phân tích khách hàng mục tiêu
+- Độ tuổi: 20-35 tuổi (Những người mới đi làm, quan tâm đến NFT, game blockchain, hoặc đầu tư nhỏ -> khách hàng Đầu tư nghiêm túc vào NFT và tài sản số, thường là nhà giao dịch hoặc nhà sưu tầm, có tài chính ổn định và ứng dụng blockchain trong kinh doanh.)
+- Giới tính: Nam(70%)-Nữ(30%)
+- Thu nhập: Trung bình cao và sẵn sàng chi tiêu cho đầu tư và giao dịch.
+ 
+- Vị trí địa lý:Một số nước Châu Á: Thị trường sôi động về NFT và blockchain.
+- Hành Vi và Nhu Cầu: Quan tâm đến đầu tư sinh lời, tìm kiếm nền tảng an toàn, chú trọng vào sự minh bạch với các công cụ phân tích AI hỗ trợ ra quyết định. Họ ưu tiên những ứng dụng dễ thao tác, dễ thựuc hiện. 
 
+---
 ## 🛠️ Kiến trúc kỹ thuật
 
 ### 1. **Frontend (Giao diện người dùng)**
@@ -99,6 +107,7 @@ Nền tảng kết hợp **Web3** để xây dựng giao diện phi tập trung 
 Dự án được cấp phép theo [MIT License](LICENSE).  
 
 ---
+
 
 ## 🤝 Đội ngũ phát triển
 - **Phát triển Web3**: [Lê Hoàng Việt, Trần Minh Khang/Maverick Web3].  
